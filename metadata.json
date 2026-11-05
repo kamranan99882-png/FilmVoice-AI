@@ -1,0 +1,6 @@
+{
+  "name": "AI Dubbing & Video Studio",
+  "description": "Professional AI video dubbing studio with speech-to-text, multi-speaker diarization, neural translation, voice synthesis, video processing, and 1-click mobile/social sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
